@@ -36,12 +36,25 @@ Course Website: http://www.stat.cmu.edu/academics/courselist
 Prerequisites: 21-123 or 21-256 or 21-118 or 21-122
 Fall: 12 units
 This course is a rigorous introduction to the mathematical theory of probability, and it provides the necessary background for the study of mathematical statistics and probability modeling. A good working knowledge of calculus is required. Topics include combinatorial analysis, conditional probability, generating functions, sampling distributions, law of large numbers, and the central limit theorem. Undergraduate students studying Computer Science, or considering graduate work in Statistics or Operations Research, must receive permission from their advisor and from the instructor. Prerequisite: 21-122 and 21-241 and (21-256 or 21-259).
+WEB-SITE: www.stat.cmu.edu/∼vventura
+TEXT: All of Statistics: A Crash Course in Probability and Statistical Inference by Larry Wasserman (2003).
+If you have the first rather than the second edition, please print the list of errata from Larry Wasserman’s web page www.stat.cmu.edu/∼larry
+OTHER REFERENCES:
+Elementary: Probability and Statistics Third Edition by Morris H. DeGroot and Mark J.Schervish (2002). Addison-Wesley.
+Intermediate: Statistical Inference: George Casella and Roger Berger (1990). Wadsworth.
+Advanced: Theory of Point Estimation. Eric Lehmann and George Casella (1998). Springer.
 
 
 36-626 Probability and Mathematical Statistics II
 Prerequisite: 36-625
 Intermittent: 12 units
 An introduction to the mathematical theory of statistical inference. Topics include likelihood functions, estimation, confidence intervals, hypothesis testing, Bayesian inference, regression, and the analysis of variance. Not open to students who have received credit for 36-226. Students studying Computer Science should carefully consider taking this course instead of 36-220 or 36-226 after consultation with their advisor. Prerequisite: 36-625.
+Main Text: Larry Wasserman, All of Statistics: A Concise Course in Statistical Inference,
+Springer 2004 (Corrected second printing 2005).
+Supplementary material, to be handed out in class.
+Other references: Hastie et al, The Elements of Statistical Learning, Springer 2001.
+Peter Dalgaard, Introductory Statistics with R, Springer 2002.
+J. Maindonald and J. Braun, Data analysis and graphics using R, Cambridge 2003.
 
 
 36-401 Modern Regression
