@@ -1,4 +1,8 @@
-
+36-217 Probability Theory and Random Processes
+All Semesters: 9 units
+This course provides an introduction to probability theory. It is designed for students in electrical and computer engineering. Topics include elementary probability theory, conditional probability and independence, random variables, distribution functions, joint and conditional distributions, limit theorems, and an introduction to random processes. Some elementary ideas in spectral analysis and information theory will be given. A grade of C or better is required in order to use this course as a pre-requisite for 36-226 and 36-410. Not open to students who have received credit for 36-225, or 36-625.
+Prerequisites: 21-259 or 21-122 or 21-123 or 21-112 or 21-256
+Course Website: http://www.stat.cmu.edu/academics/courselist
 
 
 36-225 Introduction to Probability Theory
